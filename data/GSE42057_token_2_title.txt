@@ -1,0 +1,11 @@
+117_at	heat shock 70kDa protein 6 (HSP70B')
+1294_at	microRNA 5193 /// ubiquitin-like modifier activating enzyme 7
+1405_i_at	chemokine (C-C motif) ligand 5
+1552256_a_at	scavenger receptor class B, member 1
+1552257_a_at	tubulin tyrosine ligase-like family, member 12
+1552263_at	mitogen-activated protein kinase 1
+1552264_a_at	mitogen-activated protein kinase 1
+1552275_s_at	PX domain containing serine/threonine kinase
+1552277_a_at	Myb/SANT-like DNA-binding domain containing 3
+1552287_s_at	AFG3-like AAA ATPase 1, pseudogene
+1552291_at	phosphatidylinositol glycan anchor biosynthesis, class X
